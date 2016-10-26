@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="testText" format="string"/>
+    <attr name="testColor" format="color"/>
+    <attr name="testSize" format="dimension"/>
+    <attr name="testBackGroudColor" format="color"/>
+     <declare-styleable name="CustomTitleView">  
+        <attr name="testText" />
+        <attr name="testColor" />
+        <attr name="testSize" />
+        <attr name="testBackGroudColor"/>
+    </declare-styleable>
+</resources>
